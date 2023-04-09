@@ -11,7 +11,7 @@
 
 <body>
     <div class="container my-3">
-        <h1 class="text-center">Bootstrap Table</h1>
+        <h1 class="text-center">Multiple Delete Table</h1>
         <hr>
         @if ($message = Session::get('success'))
             <div class="alert alert-info">
